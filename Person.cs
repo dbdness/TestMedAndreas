@@ -9,7 +9,7 @@ namespace Console_Unit_Test
 {
     class Person
     {
-    
+     //Kødhammeren er blå
         private int Id;
         private int Alder;
         private string Navn;
