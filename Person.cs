@@ -12,6 +12,12 @@ namespace Console_Unit_Test
      //Kødhammeren er blå
         // Nej den er grøn
         //keg
+<<<<<<< HEAD
+=======
+
+
+        //Vand er godt 
+>>>>>>> origin/master
         private int Id;
         private int Alder;
         private string Navn;
